@@ -3,5 +3,5 @@
 
 ### Задание 1
 Cхема базы данных
-![схема базы данных 1](https://github.com/stlpn/neto-db-hw1/blob/main/img/img1.png)
+![схема базы данных 1](https://github.com/stlpn/neto-bd-hw1/blob/main/img/img1.png)
 ---
